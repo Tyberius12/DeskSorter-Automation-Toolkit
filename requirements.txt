@@ -1,0 +1,4 @@
+tkinter
+Pillow==9.5.0
+send2trash==1.8.16
+schedule==1.1.9
